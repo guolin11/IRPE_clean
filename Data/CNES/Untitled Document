@@ -1,0 +1,3 @@
+X=importdata([chemin,'imaging_CNESbp.txt']);
+It_XEPR=reshape(X.data(:,4),n,n);
+
